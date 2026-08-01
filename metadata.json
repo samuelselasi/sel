@@ -1,0 +1,6 @@
+{
+  "name": "Sustainable Export Link (SEL)",
+  "description": "B2B Agricultural Supply Chain Intelligence and Marketplace connecting verified African suppliers with global buyers.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
