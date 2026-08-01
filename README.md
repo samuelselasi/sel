@@ -4,8 +4,6 @@
 
 [![Platform Version](https://img.shields.io/badge/Version-1.0.0--EUDR-blue?style=for-the-badge)](https://ais-pre-bbfp26vcn7ssaxi2xpgper-684464457984.europe-west2.run.app)
 
-🌐 **Live Application Preview**: [https://ais-pre-bbfp26vcn7ssaxi2xpgper-684464457984.europe-west2.run.app](https://ais-pre-bbfp26vcn7ssaxi2xpgper-684464457984.europe-west2.run.app)
-
 ---
 
 ## Key Features & Modules
