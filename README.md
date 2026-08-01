@@ -2,64 +2,7 @@
 
 > **Production-Grade Sustainable Agricultural Export Verification & Sourcing Platform for African Trade & EUDR Deforestation Compliance.**
 
-[![Live Web Application](https://img.shields.io/badge/Live%20Demo-Online%20App-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ais-pre-bbfp26vcn7ssaxi2xpgper-684464457984.europe-west2.run.app)
 [![Platform Version](https://img.shields.io/badge/Version-1.0.0--EUDR-blue?style=for-the-badge)](https://ais-pre-bbfp26vcn7ssaxi2xpgper-684464457984.europe-west2.run.app)
-
-🌐 **Live Application Preview**: [https://ais-pre-bbfp26vcn7ssaxi2xpgper-684464457984.europe-west2.run.app](https://ais-pre-bbfp26vcn7ssaxi2xpgper-684464457984.europe-west2.run.app)
-
----
-
-## 📸 Platform Landing Page & Educational Demos
-
-The platform features an educational showcase explaining how the platform works, video walkthroughs, and research paywalls for deep supplier and geospatial data:
-
-```
-+-----------------------------------------------------------------------------------+
-|                        SUSTAINABLE EXPORT LINK (SEL)                              |
-|           Direct Sustainable Sourcing & EUDR Compliance Platform                   |
-+-----------------------------------------------------------------------------------+
-|  [Hero Platform Showcase]                                                         |
-|  - Educational Video Walkthroughs (GPS Polygon Mapping, Escrow, Telemetry)        |
-|  - EU Deforestation Regulation (EUDR 2023/1115) Compliance Explainer              |
-|  - Platform Architecture & Verification Flow                                      |
-+-----------------------------------------------------------------------------------+
-|  [Gated Research & Paywall Access]                                                |
-|  - Supplier Directory & Co-op Profiles (Requires Login)                            |
-|  - PostGIS Farm GPS Polygon Map (Requires Login)                                  |
-|  - Commodity Spot Price Index & Yield Forecasts (Requires Login)                   |
-|  - Live Container Logistics Telemetry (Requires Login)                            |
-+-----------------------------------------------------------------------------------+
-```
-
-> **Note for GitHub Repository**: You can paste screenshot images directly into your GitHub repository under a `/docs/screenshots` or `/public` directory and reference them in this README using `![Landing Page](./docs/screenshots/landing_page.png)`.
-
----
-
-## 🚀 Pushing to GitHub
-
-To push this project to your GitHub repository:
-
-```bash
-# Initialize git repository
-git init
-
-# Stage all project files
-git add .
-
-# Create initial commit
-git commit -m "feat: Sustainable Export Link (SEL) platform v1.0.0"
-
-# Rename default branch to main
-git branch -M main
-
-# Link your GitHub remote repository
-git remote add origin https://github.com/YOUR_USERNAME/sustainable-export-link.git
-
-# Push code to your GitHub repository
-git push -u origin main
-```
-
-> **Live Demo & Media**: Update the live web demo URL in your GitHub repository sidebar settings and add screenshots under `docs/screenshots/` to display on your README.
 
 ---
 
