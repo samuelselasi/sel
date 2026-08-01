@@ -1,7 +1,7 @@
 import uuid
 from datetime import datetime
-from typing import Optional, List
-from sqlalchemy import String, Text, Integer, Float, Boolean, ForeignKey, Enum as SQLEnum, Table, Column, Numeric
+from typing import Optional, List, Any
+from sqlalchemy import String, Text, Integer, Float, Boolean, ForeignKey, Enum as SQLEnum, Table, Column, Numeric, DateTime
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 from sqlalchemy.dialects.postgresql import UUID, JSONB
 from geoalchemy2 import Geometry
